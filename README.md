@@ -16,7 +16,7 @@ The Semantic Search API provides an efficient and accurate way to search through
 
 ### Search Endpoint
 
-**URL:** `/search`
+**URL:** `http:/cloud.4ducate.com/apis/search_vector`
 
 **Method:** `POST`
 
@@ -29,7 +29,8 @@ The Semantic Search API provides an efficient and accurate way to search through
 
 - **Body:**
   ```json
-  {
-    "query": "Your search query here",
-    "k": 10  // Number of top results to return
-  }
+ {
+    "projectid":"your project id",
+    "query":"your query",
+    "result_count":10
+}
