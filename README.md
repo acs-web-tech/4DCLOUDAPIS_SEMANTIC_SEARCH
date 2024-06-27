@@ -34,3 +34,4 @@ The Semantic Search API provides an efficient and accurate way to search through
     "query":"your query",
     "result_count":10
 }
+```
