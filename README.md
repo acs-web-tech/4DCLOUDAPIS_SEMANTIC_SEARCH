@@ -29,9 +29,8 @@ The Semantic Search API provides an efficient and accurate way to search through
 
 - **Body:**
   ```json
- {
-    "projectid":"your project id",
+  {
+   "projectid":"project_id",
     "query":"your query",
     "result_count":10
-}
-```
+  }
