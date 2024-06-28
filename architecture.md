@@ -91,5 +91,5 @@ Handling bulk datasets might result in longer response times due to the processi
 ## Use Cases
 - **Recommendation System**: The Semantic Search API can be used to power recommendation systems by matching user preferences with relevant content based on semantic similarity.
 - **Filtering System**: It can also be used to implement advanced filtering mechanisms, where content is filtered based on the semantic context rather than just keyword matching.
-**Note**
+  **Note**
   The Architecture  documentation is just an example not the replica of the API 
