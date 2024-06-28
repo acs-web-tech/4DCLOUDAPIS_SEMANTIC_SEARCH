@@ -1,4 +1,4 @@
-# 4DCLOUDAPIS_SEMANTICE_SEARCH
+# 4DCLOUDAPIS SEMANTIC SEARCH
 An API which gives an option to search by meaning rather than searching by keywords
 
 # Semantic Search API
@@ -34,3 +34,26 @@ The Semantic Search API provides an efficient and accurate way to search through
     "query":"your query",
     "result_count":10
   }
+
+## Beta Developers Access Levels
+
+1. **Basic Access:**
+   - Query the system using our existing dataset there is no option to add your own dataset.
+   
+2. **Standard Access:**
+   - Can Add your own dataset and query it.
+   
+3. **Advanced Access:**
+   - Get access to our codebase.
+   - Contribute to future upgrades and improvements.
+
+4. **Admin Access:**
+   - Full access to all features, including administrative controls and settings.
+## Note :
+Developers will be assigned in the respective levels only by considering the performance in testing. the desicion of assigning to diffrent level is managed by our team with proper scrutiny
+
+## More Information
+1. Read our architecture [architecture.md](architecture.md)
+2. Read our Contributation guidelines [contribution.md](contribution.md)
+
+
