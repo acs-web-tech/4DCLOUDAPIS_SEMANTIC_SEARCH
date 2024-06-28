@@ -55,5 +55,7 @@ Developers will be assigned in the respective levels only by considering the per
 ## More Information
 1. Read our architecture [architecture.md](architecture.md)
 2. Read our Contributation guidelines [contribution.md](contribution.md)
+3. For query or assistance reach us through technologies@4ducate.com
+4. Applying for Access fill the following [Google form](https://forms.gle/tLLk6A7sD3gUV7Bz9)
 
 
