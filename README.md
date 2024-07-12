@@ -19,6 +19,7 @@ The Semantic Search API provides an efficient and accurate way to search through
 **URL:** `http:/cloud.4ducate.com/apis/search_vector`
 
 **Method:** `POST`
+**Headers:** `4dcloud-auth-token` -> "your api key"
 
 **Description:** Searches the dataset based on the provided query.
 
