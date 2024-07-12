@@ -36,7 +36,7 @@ The Semantic Search API provides an efficient and accurate way to search through
     "result_count":10
   }
 ### Insertion Endpoint
-**URL:** `http:/cloud.4ducate.com/apis/insertvector_json`
+**URL:** `http://4dcloud.cloud/apis/insertvector_json`
 **Method:** `POST`
 **Headers:** `4dcloud-auth-token` -> "your api key"
 
