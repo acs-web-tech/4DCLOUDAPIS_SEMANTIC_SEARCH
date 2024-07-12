@@ -35,7 +35,25 @@ The Semantic Search API provides an efficient and accurate way to search through
     "query":"your query",
     "result_count":10
   }
+### Insertion Endpoint
+**URL:** `http:/cloud.4ducate.com/apis/insertvector_json`
+**Method:** `POST`
+**Headers:** `4dcloud-auth-token` -> "your api key"
 
+**Description:** Inserts the individual json objects as embeddings
+
+**Request:**
+
+- **Headers:**
+  - `Content-Type: application/json`
+
+- **Body:**
+  ```json
+  [{
+  yourkey:value,
+  ......
+
+  }]
 ## Beta Developers Access Levels
 
 1. **Basic Access:**
