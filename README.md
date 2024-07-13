@@ -49,11 +49,15 @@ The Semantic Search API provides an efficient and accurate way to search through
 
 - **Body:**
   ```json
-  [{
-  yourkey:value,
-  ......
-
-  }]
+     {
+      "projectid":"projectid",
+      "embeddingText":"description",
+      "meta_data":"title",
+      "concat_field":"title",
+     "dataset":[{"title": "House of Gucci",
+     "description": "Spanning three decades of love, betrayal, decadence, revenge, and ultimately murder, we see what a name means, what it&apos;s worth, and how far a family  will go for control."}],
+    }
+  
 ## Beta Developers Access Levels
 
 1. **Basic Access:**
